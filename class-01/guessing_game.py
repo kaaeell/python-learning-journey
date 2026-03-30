@@ -1,6 +1,7 @@
 import random
-
+print("="*30)
 print("Guess the number between 1 and 100 🎯")
+print("="*30)
 
 rand = random.randint(1, 100)
 guesses = 0
